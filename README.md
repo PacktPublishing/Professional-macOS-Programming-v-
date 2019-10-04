@@ -17,6 +17,55 @@ Code for your macOS application using Swift and XCode
 ## Instructions and Navigation
 This course was created for beginners or developers on other platforms who want to build their first macOS application. If you’re a Swift or iOS developer that wants to learn how to code for multiple Apple platforms and build an application on macOS, then this is the course you need! Basic familiarity with Swift/Objective-C is assumed.	
 
+SETUP AND INSTALLATION
+This will vary on a product-by-product basis, but should be a standard PI element for ILT products. This example is relatively basic.
+
+Minimum Hardware Requirements (Macbook, iMac, Mac Mini, Mac Pro)
+For successful completion of this course, you will require the computer systems with at least the following:
+
+
+OS: MacOS 10.12.6
+
+
+
+Processor: Intel core i5 - 1.5Hz
+
+
+
+Memory: 4GB
+
+
+
+Storage: 128GB
+
+
+Recommended Hardware Requirements (Macbook, iMac, Mac Mini, Mac Pro)
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+
+
+OS: MacOS 10.13.3
+
+
+
+Processor: Intel core i7 - 2.5GHz
+
+
+
+Memory: 16GB
+
+
+
+Storage: 256GB
+
+
+Software Requirements
+
+Operating system: MacOS
+
+
+
+Xcode 10
+
 
 
 ## Related Products
